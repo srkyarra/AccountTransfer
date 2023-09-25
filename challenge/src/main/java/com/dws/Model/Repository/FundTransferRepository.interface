@@ -1,0 +1,2 @@
+public interface FundTransferRepository extends JpaRepository<FundTransferEntity, Long> {
+}
